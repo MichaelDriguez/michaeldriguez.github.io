@@ -1,17 +1,17 @@
 h1, h2, h3, h4, h5, h6, p, body, .w3-wide {
-    font-family: "Montserrat", sans-serif;
-    color: white;
+  font-family: "Montserrat", sans-serif;
+  color: white;
 }
 
 .main-background {
-    background-size: cover;
+  background-size: cover;
 }
 
 .w3-sidebar {
-    background-color: transparent;
-    background-size: cover;
+  background-color: transparent;
+  background-size: cover;
 }
 
 footer, a {
-    text-decoration: none;
+  text-decoration: none;
 }
