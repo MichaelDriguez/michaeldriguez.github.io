@@ -1,0 +1,45 @@
+h1, h2, h3, h4, h5, h6, p, body, .w3-wide, .w3-text-white, .w3-left {
+  font-family: "Consolas", monospace;
+  color: #03A062;
+}
+
+.w3-bar-item, .fa-bars, .w3-hide-large {
+  color: #03A062;
+}
+
+hr {
+  border-color: #03A062;
+}
+
+.main-background {
+  background-color: black;
+  background-size: cover;
+}
+
+.w3-sidebar {
+  background-color: black;
+  background-size: cover;
+}
+
+footer, a {
+  text-decoration: none;
+}
+
+button {
+  padding: 15px 32px;
+  text-align: right;
+  font-family: "Consolas", monospace;
+  margin: 4px 4px ;
+}
+
+.button-dark {
+  border: 1px solid #03A062;
+  background-color: black;
+  color: #03A062;
+}
+
+.button-light {
+  border: 1px solid #03A062;
+  background-color: #03A062;
+  color: black;
+}
